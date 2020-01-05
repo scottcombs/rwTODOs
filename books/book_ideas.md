@@ -8,5 +8,5 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Writing tutorials, by tutorials
-- [ ] Learning Git, by SammyD
+- [x] Learning Git, by SammyD
 - [x] 50 Shades of Green
