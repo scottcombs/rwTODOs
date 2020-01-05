@@ -1,12 +1,12 @@
 # Ideas for new book projects
 
-- [ ] Hotubbing by tutorials
+- [x] Hotubbing by tutorials
 - [x] Advanced debugging and reverse engineering
-- [ ] Animal husbandry by tutorials
-- [ ] Beginning tree surgery
+- [x] Animal husbandry by tutorials
+- [x] Beginning tree surgery
 - [x] CVS by tutorials
-- [ ] Fortran for fun and profit
+- [x] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [ ] Writing tutorials, by tutorials
+- [x] Writing tutorials, by tutorials
 - [x] Learning Git, by SammyD
 - [x] 50 Shades of Green
